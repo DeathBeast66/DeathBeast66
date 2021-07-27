@@ -152,18 +152,11 @@
 
 <br></br>  
     
-  
-  
-
-<a href="https://www.facebook.com/joaomilhanofernandes" alt="Facebook" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/aa4d169ba105b1f014bcdd2873f3f0d73f2aae7e373051bd8caad3fbaa5990de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3362353939383f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d336235393938266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e66616365626f6f6b2e636f6d2f6a686f6e6174612e313332342f" data-canonical-src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&amp;labelColor=3b5998&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/joaomilhanofernandes/" style="max-width:100%;"></a>
- 
- <a href="https://www.instagram.com/joao_milhano_fernandes/" alt="Instagram" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/ab6a605e39d954acd7ca0ba4925323936471b45a7a215820c7e80ada565a9d33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4446303137343f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d444630313734266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f65756a6f686e5f5f5f2f" data-canonical-src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&amp;labelColor=DF0174&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/joao_milhano_fernandes/" style="max-width:100%;"></a>
-</p>  
-
+</a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966"><img src="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966" data-canonical-src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" style="max-width:100%;" height="25px"></a> My Contact
 <ul>
-<li><a href="https://twitter.com/JoaoMilhano1971" rel="nofollow">Twitter</a></li>
+<li><a href="https://twitter.com/JoaoMilhano1971" rel="nofollow">Twitter</a></li>  
+<li><a href="https://www.facebook.com/joaomilhanofernandes" rel="nofollow">Facebook</a></li>
+<li><a href="https://www.instagram.com/joao_milhano_fernandes" rel="nofollow">Instagram</a></li>  
 <li><a href="https://t.me/Death_Beast_66" rel="nofollow">Telegram</a></li>
 <li><a href="http://milhano.pt" rel="nofollow">Personal website</a></li>
 </ul> 
