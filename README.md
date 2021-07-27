@@ -1,7 +1,7 @@
 <img alt="Coding" src="https://cld.pt/dl/download/944e06fd-47ff-4326-a2d5-57f108c40a9e/Milhano%20SO.jpg" data-canonical-src="https://cld.pt/dl/download/944e06fd-47ff-4326-a2d5-57f108c40a9e/Milhano%20SO.jpg)](https://cld.pt/dl/download/944e06fd-47ff-4326-a2d5-57f108c40a9e/Milhano%20SO.jpg" style="max-width:100%;" width="100%" height="300" align="middle"></a></p>
 <h1 align="center"><a id="user-content-hi--im-milhano" class="anchor" aria-hidden="true" href="#hi--im-milhano"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 
-- <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning **Web Development**
+- <p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> I’m currently learning **Web Development**
 
 
 
