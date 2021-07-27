@@ -109,13 +109,7 @@
 
 
 | [1FreeHosting](http://www.1freehosting.com/) | 
-| [2FreeHosting](https://www.2freehosting.com/) | 
 | [Amazon Web Services](https://aws.amazon.com/pt/) | 
-| [BlueHost](https://www.bluehost.com/) | 
-| [DigitalOcean](https://www.digitalocean.com/) | 
-| [DreamHost](https://www.dreamhost.com/) | 
-| [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) | 
-| [GoDaddy](https://br.godaddy.com/) | 
 | [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) | 
 | [Heroku](https://www.heroku.com/) | 
 | [HostGator](https://www.hostgator.com/) | 
@@ -123,11 +117,9 @@
 | [Hostoo](https://hostoo.io/) | 
 | [iPage](https://www.ipage.com/) | 
 | [KingHost](https://king.host/) | 
-| [Netlify](https://www.netlify.com/) | 
 | [One.com](https://www.one.com/pt-BR/) | 
 | [Surge](https://surge.sh/) | 
 | [Umbler](https://www.umbler.com/br) | 
-| [Vercel](https://vercel.com/) |
 
 
 <br></br>  
