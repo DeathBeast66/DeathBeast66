@@ -161,3 +161,9 @@
  <a href="https://www.instagram.com/joao_milhano_fernandes/" alt="Instagram" rel="nofollow">
   <img src="https://camo.githubusercontent.com/ab6a605e39d954acd7ca0ba4925323936471b45a7a215820c7e80ada565a9d33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4446303137343f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d444630313734266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f65756a6f686e5f5f5f2f" data-canonical-src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&amp;labelColor=DF0174&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/joao_milhano_fernandes/" style="max-width:100%;"></a>
 </p>  
+
+<ul>
+<li><a href="https://twitter.com/JoaoMilhano1971" rel="nofollow">Twitter</a></li>
+<li><a href="https://t.me/Death_Beast_66" rel="nofollow">Telegram</a></li>
+<li><a href="http://milhano.pt" rel="nofollow">Personal website</a></li>
+</ul> 
