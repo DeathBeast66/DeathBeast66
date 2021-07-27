@@ -22,7 +22,6 @@
 | [1PageRank](http://www.1pagerank.com/) | 
 | [Any API](https://any-api.com/) | 
 | [Autoprefixer CSS](http://autoprefixer.github.io/) | 
-| [Browser diet](https://browserdiet.com/pt/) |
 | [Can I email...](https://www.caniemail.com/) | 
 | [Can I use...](https://caniuse.com/) | 
 | [CloudFlare](https://www.cloudflare.com/pt-br/) | 
@@ -32,9 +31,7 @@
 | [CSS Formatter](https://www.cleancss.com/css-beautify/) | 
 | [CSS Minifier](https://cssminifier.com/) | 
 | [CSS W3.org](https://jigsaw.w3.org/css-validator/) | 
-| [docsify](https://docsify.js.org/#/) | 
 | [Editor.md](https://pandao.github.io/editor.md/en.html) | 
-| [ES6console](https://es6console.com/) | 
 | [Firebase](https://firebase.google.com/?hl=pt-BR) | 
 | [generatedata](http://www.generatedata.com/) | 
 | [GitHub Gist](https://gist.github.com/) | 
@@ -48,19 +45,11 @@
 | [JSONLint](https://jsonlint.com/) | 
 | [KeyCDN Tools](https://tools.keycdn.com/) | 
 | [Liveweave](https://liveweave.com/) | 
-| [Lorem Ipsum](https://br.lipsum.com/) | 
 | [Mapbox](https://www.mapbox.com/) | 
-| [Memcached](https://memcached.org/) | 
-| [Mockaroo](https://www.mockaroo.com/) | 
-| [Mussum Ipsum](https://mussumipsum.com/) | 
 | [NPM HTTP-Server](https://www.npmjs.com/package/http-server) | 
 | [Online C Compiler](https://www.onlinegdb.com/online_c_compiler) | 
 | [PythonAnywhere](https://www.pythonanywhere.com/) | 
 | [React Hook Form](https://react-hook-form.com/) | 
-| [RelaX](http://dbis-uibk.github.io/relax/index.htm) | 
-| [Responsive](http://www.codeorama.com/responsive/) | 
-| [SSL Server Test](https://www.ssllabs.com/ssltest/) | 
-| [Tabela ASCII](https://web.fe.up.pt/~ee96100/projecto/Tabela%20ascii.htm) | 
 | [Telegram](https://telegram.org/) | 
 | [TinyJPG](https://tinyjpg.com/) | 
 | [TinyPNG](https://tinypng.com/) |
@@ -68,8 +57,6 @@
 | [WakaTime](https://wakatime.com/) | 
 | [Web.dev](https://web.dev/) |
 | [WebPageTest](https://www.webpagetest.org/) | 
-| [Wedsites](https://wedsites.com/) | 
-| [WordPress](https://wordpress.org/) | 
 | [XML Sitemaps](https://www.xml-sitemaps.com/) | 
 
 
@@ -100,7 +87,6 @@
 
 
 | [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) | 
-| [Clojure](https://clojure.org/) | 
 | [Dart](https://dart.dev/) | 
 | [Elixir](https://elixir-lang.org/) | 
 | [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) | 
