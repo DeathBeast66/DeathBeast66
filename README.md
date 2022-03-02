@@ -91,23 +91,6 @@
 
 
 
-## 🏨 Hospedagem
-
-
-| [1FreeHosting](http://www.1freehosting.com/) | 
-| [Amazon Web Services](https://aws.amazon.com/pt/) | 
-| [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) | 
-| [Heroku](https://www.heroku.com/) | 
-| [HostGator](https://www.hostgator.com/) | 
-| [Hostinger](https://www.hostinger.com.br/) | 
-| [Hostoo](https://hostoo.io/) | 
-| [iPage](https://www.ipage.com/) | 
-| [KingHost](https://king.host/) | 
-| [One.com](https://www.one.com/pt-BR/) | 
-| [Surge](https://surge.sh/) | 
-| [Umbler](https://www.umbler.com/br) | 
-
-
 <br></br>  
     
 </a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966"><img src="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966" data-canonical-src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" style="max-width:100%;" height="25px"></a> My Contact
