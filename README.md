@@ -52,23 +52,6 @@
 
 
 
-## 📝 IDEs e editores de código
-
-
-| [Atom](https://atom.io/) |
-| [BBEdit](https://www.barebones.com/products/bbedit/) | 
-| [CodeBlocks](http://www.codeblocks.org/) | 
-| [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) | 
-| [NetBeans](https://netbeans.org/) | 
-| [Notepad++](https://notepad-plus-plus.org/) |
-| [PHPStorm](https://www.jetbrains.com/phpstorm/) |
-| [Sublime Text](https://www.sublimetext.com/) |
-| [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/) |
-| [Visual Studio Code](https://code.visualstudio.com/) | 
-
-
-
-
 ## 🔤 Linguagens de programação
 
 
