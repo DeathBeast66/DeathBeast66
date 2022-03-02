@@ -112,8 +112,7 @@
     
 </a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966"><img src="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966" data-canonical-src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" style="max-width:100%;" height="25px"></a> My Contact
 <ul>
-<li><a href="https://mobile.twitter.com/milhanopt" rel="nofollow">Twitter</a></li>  
-<li><a href="https://www.instagram.com/milhanopt/" rel="nofollow">Instagram</a></li>  
+<li><a href="https://www.instagram.com/milhanopt_oficial//" rel="nofollow">Instagram</a></li>  
 <li><a href="https://t.me/Death_Beast_66" rel="nofollow">Telegram</a></li>
 <li><a href="http://milhano.pt" rel="nofollow">Personal website</a></li>
 </ul> 
