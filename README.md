@@ -11,6 +11,11 @@
   <a href="https://discord.gg/V4pm2Vqu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatoDeathBeast66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+<ul>
+<li><a href="https://t.me/Death_Beast_66" rel="nofollow">Telegram</a></li>
+<li><a href="http://milhano.pt" rel="nofollow">Personal website</a></li>
+</ul>   
+  
  
   
  
@@ -97,10 +102,7 @@
 <br></br>  
     
 </a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6cf1dc5094bff78a4ac24721466b046863124ae2c0a7324ca5c968ffebc0715d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64616c4a304370463768776d4e316e5a58652f67697068792e676966"><img src="https://avatars.githubusercontent.com/u/79649412?v=4" data-canonical-src="https://avatars.githubusercontent.com/u/79649412?v=4" style="max-width:100%;" height="25px"></a> My Contact
-<ul>
-<li><a href="https://t.me/Death_Beast_66" rel="nofollow">Telegram</a></li>
-<li><a href="http://milhano.pt" rel="nofollow">Personal website</a></li>
-</ul> 
+
 
 
 
